@@ -6,7 +6,7 @@
 html, 
 body {
   font-size: 18px;
-  background-color: #f5f6f7;
+  background-color: #3c3c3c;
 }
 
 h1 {
@@ -16,6 +16,7 @@ h1 {
   font-weight: 700;
   line-height: 1.1;
   margin: 40px 0;
+  color: rgb(255, 255, 255);
 }
 
 .App {
@@ -33,4 +34,5 @@ h1 {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+  color: rgb(255, 142, 142);
 }
